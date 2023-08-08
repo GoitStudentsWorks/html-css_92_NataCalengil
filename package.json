@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group-20/",
+    "build": "vite build --base=/html-css_92_NataCalengil/",
     "preview": "vite preview"
   },
   "devDependencies": {
